@@ -1,3 +1,3 @@
 # Kaliel's Tracker
 
-https://github.com/Horogg/KalielsTracker-Issues/issues
+This repository is only for reporting [Issues](https://github.com/Horogg/KalielsTracker-Issues/issues).
